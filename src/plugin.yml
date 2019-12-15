@@ -1,0 +1,6 @@
+name: Tunnel_Digger
+author: R4ndom1
+version: 1.0
+main: r4ndom1.tunnelDigger.TunnelDigger
+description: Transform a minecart to tunnel digger
+api-version: 1.13
